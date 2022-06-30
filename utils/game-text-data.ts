@@ -1,6 +1,6 @@
 import { GameText } from "../interfaces";
 
-export const gameTextData: GameText[] = [
+export const GameTextData: GameText[] = [
     { 
         id: 1,
         text: "さんぷるだよ〜"

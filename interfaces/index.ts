@@ -8,3 +8,8 @@ export type User = {
   id: number
   name: string
 }
+
+export type GameText = {
+  id: number
+  text: string
+}
